@@ -1,0 +1,13 @@
+Airbus-A320 220
+Boeing-737 215
+Airbus-A340 440
+Boeing-777 426
+Airbus-A220 135
+Boeing-787 242
+Boeing-747 416
+Airbus-A330 335
+Boeing-757 140
+Boeing-767 290
+Embraer-190 114
+Embraer-170 80
+Embreaer-175 88
